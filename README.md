@@ -21,21 +21,8 @@
     &#8287;&#8287;&#8287;&#8287;&#8287;
   </p>
   <p>
-  - 🔭 I’m currently a student of ALX Programme....
-  - 👯 I’m looking to collaborate on any project related to web development
-  - 🌱 I’m currently learning ...everyday. Just having Knowledge isn't enough. Implementing and being grittier with Knowledge is KEY!!
+  - 🔭 I’m currently a student of ALX Programme....</p>
+  <p>- 👯 I’m looking to collaborate on any project related to web development </p>
+ <p> - 🌱 I’m currently learning ...everyday. Just having Knowledge isn't enough. Implementing and being grittier with Knowledge is KEY!!
 </p
-<!--
-**Lawrence-Maduabuchi/Lawrence-Maduabuchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-
-
-
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
