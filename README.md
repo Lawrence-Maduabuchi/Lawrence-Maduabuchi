@@ -11,25 +11,29 @@
 <p align="center">
     <a href="#"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://mobile.twitter.com/HeartwellOkorie"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+    <a href="https://mobile.twitter.com/law_maduabuchi"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://discordapp.com/user/977715753606340638" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+    <a href="https://discord.com/channels/@me" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="#"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://buymeacoffee.com/officialheC"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
   </p>
-
+  <p>
+  - 🔭 I’m currently a student of ALX Programme....
+  - 👯 I’m looking to collaborate on any project related to web development
+  - 🌱 I’m currently learning ...everyday. Just having Knowledge isn't enough. Implementing and being grittier with Knowledge is KEY!!
+</p
 <!--
 **Lawrence-Maduabuchi/Lawrence-Maduabuchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+
+
+
+
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
