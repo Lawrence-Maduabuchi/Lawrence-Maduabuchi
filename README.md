@@ -5,7 +5,7 @@
   <a href="https://github.com/Lawrence-Maduabuchi/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Front-End%20web%20developer;technical%20Writer;Learning%20UI%2FUX%20Designing;3+%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
-<h3 align="center">A passionate Software developer 💻, Digital Technologist 🏗🏛 and a Youtuber 🎙, skilled in Developing Web Application, from Nigeria!</h3>
+<h3 align="center">A passionate Software developer 💻, Online Digital Analyst  🏗🏛 and a Youtuber 🎙, skilled in Developing Web Application, from Nigeria!</h3>
 <hr>
 <!-- Social icons section -->
 <p align="center">
@@ -25,4 +25,4 @@
   <p>- 👯 I’m looking to collaborate on any project related to web development </p>
  <p> - 🌱 I’m currently learning ...everyday. Just having Knowledge isn't enough. Implementing and being grittier with Knowledge is KEY!!
 </p
-
+<p>I started my alx journey in Feb 2023. So far, it has been an excellent journey. Meeting new friends where we work on projects together!.
